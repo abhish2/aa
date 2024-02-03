@@ -1,2 +1,3 @@
-streamlit-bokeh-events
 bokeh
+streamlit-bokeh-events
+
